@@ -1,0 +1,15 @@
+[
+  {
+    "receiptId": "proof-replay-001",
+    "matchId": "synthetic-match-001",
+    "statKey": "goal:home:27",
+    "statValue": "Northbridge goal at 27",
+    "merkleRoot": "replay-root-9f2d",
+    "merkleProof": ["replay-leaf-27", "replay-branch-goal"],
+    "txSignature": "replay_fixture_signature",
+    "slot": 262625,
+    "verified": true,
+    "verifiedAtUtc": "2026-06-25T12:27:18Z",
+    "verificationMode": "replay_fixture"
+  }
+]

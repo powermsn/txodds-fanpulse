@@ -1,0 +1,44 @@
+[
+  {
+    "matchId": "synthetic-match-001",
+    "competitionId": "txline-demo-cup",
+    "competitionName": "International Football Demo",
+    "kickoffUtc": "2026-06-25T12:00:00Z",
+    "status": "live",
+    "homeTeam": "Northbridge",
+    "awayTeam": "Coast City",
+    "homeScore": 0,
+    "awayScore": 0,
+    "minute": 24,
+    "updatedAtUtc": "2026-06-25T12:24:00Z",
+    "sourceMode": "replay"
+  },
+  {
+    "matchId": "synthetic-match-002",
+    "competitionId": "txline-demo-cup",
+    "competitionName": "International Football Demo",
+    "kickoffUtc": "2026-06-25T14:00:00Z",
+    "status": "suspended",
+    "homeTeam": "Harbor Union",
+    "awayTeam": "Highlands",
+    "homeScore": 0,
+    "awayScore": 0,
+    "minute": 52,
+    "updatedAtUtc": "2026-06-25T15:07:00Z",
+    "sourceMode": "replay"
+  },
+  {
+    "matchId": "synthetic-match-003",
+    "competitionId": "txline-demo-cup",
+    "competitionName": "International Football Demo",
+    "kickoffUtc": "2026-06-25T16:00:00Z",
+    "status": "finished",
+    "homeTeam": "Metro South",
+    "awayTeam": "River Town",
+    "homeScore": 2,
+    "awayScore": 1,
+    "minute": 90,
+    "updatedAtUtc": "2026-06-25T17:55:00Z",
+    "sourceMode": "replay"
+  }
+]
