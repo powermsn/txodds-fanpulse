@@ -13,9 +13,9 @@ FanPulse is a mobile-first verified match room where friends play a free next-ev
 
 Replace these before submitting on Superteam:
 
-- Live app URL: pending deployment
+- Live app URL: https://txodds-fanpulse.vercel.app
 - Demo video URL: pending recording/upload
-- Public repo URL: pending GitHub repo creation
+- Public repo URL: https://github.com/powermsn/txodds-fanpulse
 
 ## Compliance
 

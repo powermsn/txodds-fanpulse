@@ -92,4 +92,4 @@ The in-app compliance label is: `Free fan game. No betting. No prizes.`
 - Replay data is synthetic and public-safe, not raw TxODDS live data.
 - Proof receipts are replay fixtures for judging.
 - Room state is local browser state, not a multiplayer backend.
-- Public deployment URL, demo video URL, and public repo URL must be inserted before final submission.
+- Demo video URL must be inserted before final submission.
