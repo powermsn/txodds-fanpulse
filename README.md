@@ -9,12 +9,10 @@ FanPulse is a mobile-first verified match room where friends play a free next-ev
 - Distinct from the other submissions: FanPulse is a mainstream fan engagement app, not a settlement engine and not a trading agent.
 - Primary judge path: replay mode, no wallet, no token, no secrets
 
-## Final Submission URL Checklist
-
-Replace these before submitting on Superteam:
+## Final Submission Links
 
 - Live app URL: https://txodds-fanpulse.vercel.app
-- Demo video URL: pending recording/upload
+- Demo video URL: https://www.youtube.com/watch?v=-NAz2BtIXM4
 - Public repo URL: https://github.com/powermsn/txodds-fanpulse
 
 ## Compliance

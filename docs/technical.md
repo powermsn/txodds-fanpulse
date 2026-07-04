@@ -76,5 +76,5 @@ No LLM call is required for replay mode.
 - No cross-device synchronization.
 - No live TxLINE adapter yet.
 - No wallet flow.
-- No deployment URL or demo video in this scaffold.
+- Live deployment, public repo, and demo video links are recorded in the root README and submission notes.
 - Replay fixture content is synthetic and should remain synthetic unless TxODDS gives written approval for samples.

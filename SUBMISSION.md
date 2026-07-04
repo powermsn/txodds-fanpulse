@@ -8,6 +8,12 @@ Consumer and Fan Experiences
 
 FanPulse is a free, mobile-first verified match room where friends predict the next football moment and a TxLINE-style proof trail verifies the replay highlight card.
 
+## Submission Links
+
+- Live app URL: https://txodds-fanpulse.vercel.app
+- Demo video URL: https://www.youtube.com/watch?v=-NAz2BtIXM4
+- Public repo URL: https://github.com/powermsn/txodds-fanpulse
+
 ## Project Description
 
 FanPulse turns live match data into a fan-facing social game: join a room, choose whether the next major moment is a goal, card, or calm spell, and watch the friend leaderboard move when the match event arrives.
@@ -92,4 +98,3 @@ The in-app compliance label is: `Free fan game. No betting. No prizes.`
 - Replay data is synthetic and public-safe, not raw TxODDS live data.
 - Proof receipts are replay fixtures for judging.
 - Room state is local browser state, not a multiplayer backend.
-- Demo video URL must be inserted before final submission.
