@@ -18,8 +18,9 @@ The judge path is replay-first. It uses local synthetic fixtures that mirror the
 
 1. Open the app on mobile or desktop.
 2. Leave the default `Goal` prediction selected, or choose `Card`/`Calm` to see scoring change.
-3. Click `Join and reveal next moment`.
-4. Within about two seconds, watch the score flip to `1-0`, the leaderboard update, and the verified moment card reveal a proof timeline.
+3. Confirm the evidence strip shows `Live TxLINE: not configured`, `Replay room: active`, and `Mode: points only`.
+4. Click `Join room`.
+5. Within about two seconds, watch the score flip to `1-0`, the reveal rail advance to `Share card ready`, the leaderboard update, and the verified moment card reveal a proof timeline.
 
 ## Why TxODDS Matters
 

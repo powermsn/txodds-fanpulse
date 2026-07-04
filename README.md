@@ -34,7 +34,7 @@ npm run dev
 
 Open the local Vite URL, usually `http://localhost:5173`.
 
-Replay mode is the default. Click `Join and reveal next moment`; the seeded guest joins without typing a real room code. Within 2 seconds, the replay emits a goal, updates the next-event streak, moves the leaderboard, adds an AI pundit item, and updates the verified moment card.
+Replay mode is the default. The top evidence strip makes this explicit with `Live TxLINE: not configured`, `Replay room: active`, and `Mode: points only`. Click `Join room`; the seeded guest joins without typing a real room code. Within 2 seconds, the replay emits a goal, advances the reveal rail through `Event received` and `Receipt verified`, updates the leaderboard, adds an AI pundit item, and prepares the verified moment card.
 
 ## Verification
 

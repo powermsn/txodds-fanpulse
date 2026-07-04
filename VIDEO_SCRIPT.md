@@ -12,21 +12,23 @@ Voiceover:
 
 Point out:
 
-- `Replay demo mode`
-- `Free fan game. No betting. No prizes.`
-- `Replay proof ready`
+- `Live TxLINE: not configured`
+- `Replay room: active`
+- `Mode: points only`
+- `Points-only / no prizes / no wagering`
 - Goal/Card/Calm segmented control
 
 ## 0:20-1:10 - Instant Reveal
 
 Leave `Goal` selected.
 
-Click `Join and reveal next moment`.
+Click `Join room`.
 
 Within about two seconds, show:
 
 - score flips to `1-0`
 - CTA changes to `Watching replay`
+- reveal rail advances through `Event received`, `Receipt verified`, and `Share card ready`
 - `You` moves to the top of the leaderboard with `+40`
 - moment card changes to `Receipt verified`
 
@@ -38,7 +40,7 @@ Voiceover:
 
 Reload or reset the page.
 
-Choose `Card`, then click `Join and reveal next moment`.
+Choose `Card`, then click `Join room`.
 
 Show that the goal event does not reward the wrong pick.
 
